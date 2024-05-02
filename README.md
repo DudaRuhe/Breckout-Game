@@ -4,7 +4,9 @@ Game inspired by the classic Atari game: Breakout, using C++ as the main program
 #How to Play
 
 P - Pause/Dispause game
+
 Left and Right direction keys - Move paddle.
+
 ESC - Close game
 
 
