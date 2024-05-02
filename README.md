@@ -1,6 +1,6 @@
 # Breckout-Game - C++
 Game inspired by the classic Atari game: Breakout, using C++ as the main programming language and SFML graphics library.
-
+Based on a talk by Vittorio Romeo and code by "FamTrimli"
 # How to Play
 
 P - Pause/Dispause game
